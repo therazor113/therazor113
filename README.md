@@ -18,5 +18,5 @@
 <br>
 <div align="center">
   <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=therazor113&theme=tokyonight&hide_border=true" />
-  <img width="437.5" src="https://github-readme-stats.vercel.app/api?username=therazor113&hide=contribs&show_icons=true&theme=tokyonight&border&hide_border=true" />
+  <img width="438" src="https://github-readme-stats.vercel.app/api?username=therazor113&hide=contribs&show_icons=true&theme=tokyonight&border&hide_border=true" />
 </div>
