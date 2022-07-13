@@ -18,6 +18,6 @@
 
 <br>
 <div align="center">
-  <img width="418" src="https://github-readme-streak-stats.herokuapp.com/?user=therazor113&theme=tokyonight&hide_border=true" />
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=therazor113&hide=contribs&show_icons=true&theme=tokyonight&border&hide_border=true" />
+  <img width="418" src="https://github-readme-streak-stats.herokuapp.com/?user=therazor113&theme=tokyonight&hide_border=true" style=max-width="100%"/>
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=therazor113&hide=contribs&show_icons=true&theme=tokyonight&border&hide_border=true" style=max-width="100%"/>
 </div>
