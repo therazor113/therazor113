@@ -2,8 +2,8 @@
   <a href="https://github.com/therazor113/Forklift-Next">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=therazor113&repo=Forklift-Next&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/therazor113/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therazor113&repo=Portfolio&theme=tokyonight&hide_border=true&show_owner=true" />
+  <a href="https://github.com/therazor113/Mood-Next">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therazor113&repo=Mood-Next&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
 </div>
 <br>
